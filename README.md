@@ -3,4 +3,4 @@
 ## Patches
 - [lineheight](https://tools.suckless.org/dmenu/patches/lineheight)
 - [fuzzymatch](https://tools.suckless.org/dmenu/patches/lineheight)
-- [highlight](https://tools.suckless.org/dmenu/patches/highlight)
+- [fuzzyhighlight](https://tools.suckless.org/dmenu/patches/fuzzyhighlight)
